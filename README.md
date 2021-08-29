@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Z1 Digital Studio](https://z1.digital/). We take digital products from zero to one, visit [my site](http://galindosvq.com/) or [follow @galindosvq on Twitter](https://twitter.com/galindosvq). 
-
+🔭 My name is Antonio Galindo, **Front End Engineer** from Sevilla. I love craft digital products, primarily focus on writing code to build web applications (JavaScript Enthusiast). I am interested in engineering and open source. Loving and respectful of nature.
+Visit [my site](http://galindosvq.com/) or follow [@GalindoSVQ](https://twitter.com/galindosvq) on Twitter.
