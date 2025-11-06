@@ -2,7 +2,7 @@
 
 This is Antonio Galindo, a web developer based in Sevilla. I love craft digital products with Node, React/TypeScript. I am interested in engineering and open source. Loving and respectful of nature 🧗‍♂️
 
-Visit [my site](https://antoniogalindo.com/) or follow me [@GalindoSVQ](https://twitter.com/galindosvq) on Twitter.
+Visit [my site](https://antoniogalindo.com/) or follow me [@GalindoSVQ](https://twitter.com/galindosvq) on Twitter
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
